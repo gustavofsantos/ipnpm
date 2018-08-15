@@ -1,0 +1,22 @@
+{
+  "name": "ipnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavofsantos/ipnpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavofsantos/ipnpm/issues"
+  },
+  "homepage": "https://github.com/gustavofsantos/ipnpm#readme",
+  "dependencies": {
+    "ipfs": "^0.31.4"
+  }
+}
